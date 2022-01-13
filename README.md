@@ -39,3 +39,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/PlusFlippy">
   <img align="right" alt="Plus Flippy | Twitter" width="21px" src="https://raw.githubusercontent.com/Niko-shot/Niko-shot/main/Assets/twitter.svg" />
 </a>
+<a href="https://discord.com/channels/899215098772590652">
+  <img align="right" alt="Plus Flippy | Twitter" width="21px" src="https://raw.githubusercontent.com/Niko-shot/Niko-shot/main/Assets/Discord.png" />
+</a>
