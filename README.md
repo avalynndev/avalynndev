@@ -7,7 +7,7 @@ I'm a self-taught passionate developer from India
 - 🔧 I have worked on several **Games** in the past.
 - 🎮 **Among Us Mods And Game Dev** is currently my hobby.
 - 🤖 I have also worked on **Discord Bots**.
-- 📫 You can reach me on Discord:**Niko Shot#392**
+- 📫 You can reach me on Discord: **No Name#**
 - 👀 You can checkout my games on https://comzogg.itch.io/
 
 **Languages and Tools:**  
