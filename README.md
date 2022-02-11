@@ -22,7 +22,7 @@
       <h2 align="center">📊 Uwu's Github Statistics 📊 </h2>   
          <p align="center">
                       <br/><br/><br/> 
-             <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niko-Shot&theme=radical&show_icons=true&hide_border=true" />
+                         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niko-Shot&theme=radical&show_icons=true&hide_border=true" />
            <br/><br/><br/> 
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niko-Shot&theme=radical&hide_border=true" />
          </p> 
