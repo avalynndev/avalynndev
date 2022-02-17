@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm Uwu!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm PlusFlippy!</h2>
 <p align="center">
 <table align="center">
    <tr>
@@ -6,7 +6,7 @@
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/VfXZN8XCVd"><img align="center" src="https://discordapp.com/api/guilds/941547792336298034/widget.png?style=banner2" alt="Discord Banner2"/></a>
+            <a href=""><img align="center" src="" alt=""/></a>
          <br/><br/>
          - 🔭 I’m currently working on <strong><a>Pogy Bot - Discord Bot</a></strong> -
          <br/>
@@ -19,12 +19,12 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 Uwu's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 PlusFlippy's Github Statistics 📊 </h2>   
          <p align="center">
                       <br/><br/><br/> 
-                         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niko-Shot&theme=radical&show_icons=true&hide_border=true" />
+                         <img align="center" src="https://github-readme-stats.vercel.app/api?username=PlusFlippy&theme=radical&show_icons=true&hide_border=true" />
            <br/><br/><br/> 
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niko-Shot&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PlusFlippy&theme=radical&hide_border=true" />
          </p> 
              <br/><br/><br/> 
    </tr>
