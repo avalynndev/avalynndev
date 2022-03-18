@@ -8,7 +8,7 @@
          <br/><br/>
             <a href=""><img align="center" src="" alt=""/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a>Ouija - Discord Bot</a></strong> -
+         - 🔭 I’m currently working on <strong><a>MineTracker - Discord Bot</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>Javascript</strong> -
          <br/>
