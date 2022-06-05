@@ -1,3 +1,9 @@
+Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://discord.com/oauth2/authorize?client_id=825617171589759006&permissions=2113268958&redirect_uri=https://discord.gg/Flantic&response_type=code&scope=bot%20applications.commands).
+
+You can talk to me at [discord.gg/:eyes:](https://discord.gg/Flantic).
+
+![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)  
+
 ## Visitors
 ![Visitors](https://profile-counter.glitch.me/Avalynn/count.svg)
 
@@ -14,4 +20,4 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avalynn's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PlusFlippy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/Shadowaf/github-readme-activity-graph"><img alt="Shadowaf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PlusFlippy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Avalynn/github-readme-activity-graph"><img alt="Avalynn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PlusFlippy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
