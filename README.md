@@ -1,4 +1,4 @@
-Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://discord.com/oauth2/authorize?client_id=825617171589759006&permissions=2113268958&redirect_uri=https://discord.gg/Flantic&response_type=code&scope=bot%20applications.commands).
+Obviously, it is called **README**, so you are **reading** me now. Also I made [that one Discord bot](https://discord.com/oauth2/authorize?client_id=973136576014057482&permissions=8&redirect_uri=https://dsc.gg/matrixbyte&response_type=code&scope=bot%20applications.commands).
 
 You can talk to me at [dsc.gg/matrixbyte](https://dsc.gg/matrixbyte).
 
