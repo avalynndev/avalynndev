@@ -10,14 +10,3 @@ You can talk to me at [dsc.gg/matrixbyte](https://dsc.gg/matrixbyte).
 <a href="https://wakatime.com/@Avalynn" target="_blank">
 	<img width="50%" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=avalynn&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&v=2">
 </a>
-</span>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<br><br>
-<p align="center">
-     <h2>Avalynn's Streak<h2>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avalynn's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=avalynndev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
