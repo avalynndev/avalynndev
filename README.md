@@ -1,25 +1,11 @@
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MatrixByte/.github/issues/1) in [MatrixByte/.github](https://github.com/MatrixByte/.github)
-2. ❗️ Opened issue [#1](https://github.com/MatrixByte/.github/issues/1) in [MatrixByte/.github](https://github.com/MatrixByte/.github)
-3. 💪 Opened PR [#288](https://github.com/is-a-good-dev/register/pull/288) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 💪 Opened PR [#287](https://github.com/is-a-good-dev/register/pull/287) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. ❌ Closed PR [#4073](https://github.com/is-a-dev/register/pull/4073) in [is-a-dev/register](https://github.com/is-a-dev/register)
-<!--END_SECTION:activity-->
-
 Obviously, it is called **README**, so you are **reading** me now. 
 I'm a 14-year-old who enjoys programming small things as a hobby. I have plenty of experience in Node.js (JS/TS) and Python.
 You can talk to me at [dsc.gg/matrixbyte](https://dsc.gg/matrixbyte).
 
-![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)  
+### :zap: Recent Activity
 
-### Languages and Tools:
-
-<a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png" height="40px"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript_48x48.png" height="40px"/></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python_48x48.png" /></a>
-<a href="https://html.com/" target="_blank"><img align="left" alt="HTML" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_48x48.png" height="40px" /></a>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br />
 <br />
