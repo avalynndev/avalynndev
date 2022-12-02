@@ -1,4 +1,7 @@
-<!--RECENT_ACTIVITY:start--> 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 Obviously, it is called **README**, so you are **reading** me now. 
 I'm a 14-year-old who enjoys programming small things as a hobby. I have plenty of experience in Node.js (JS/TS) and Python.
