@@ -15,3 +15,5 @@ jobs:
       - uses: Readme-Workflows/recent-activity@{version}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: "./.github/update-readme.config.yml"
