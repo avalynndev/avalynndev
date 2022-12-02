@@ -5,6 +5,11 @@ You can talk to me at [dsc.gg/matrixbyte](https://dsc.gg/matrixbyte).
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/MatrixByte/.github/issues/1) in [MatrixByte/.github](https://github.com/MatrixByte/.github)
+2. ❗️ Opened issue [#1](https://github.com/MatrixByte/.github/issues/1) in [MatrixByte/.github](https://github.com/MatrixByte/.github)
+3. 💪 Opened PR [#288](https://github.com/is-a-good-dev/register/pull/288) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+4. 💪 Opened PR [#287](https://github.com/is-a-good-dev/register/pull/287) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
+5. ❌ Closed PR [#4073](https://github.com/is-a-dev/register/pull/4073) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 <br />
