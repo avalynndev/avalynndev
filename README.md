@@ -12,9 +12,7 @@ You can talk to me at [dsc.gg/matrixbyte](https://dsc.gg/matrixbyte).
 5. ❌ Closed PR [#4073](https://github.com/is-a-dev/register/pull/4073) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
-<br />
-<br />
-<br />
+<br />1
 
 <a href="https://discord.com/users/735059235141845003" target="_blank">
 	<img width="50%" align="left" alt="Discord Status" src="https://lanyard.cnrad.dev/api/735059235141845003?bg=1f1f1f&borderRadius=5px">
