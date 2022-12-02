@@ -1,3 +1,5 @@
+<!--RECENT_ACTIVITY:start--> 
+
 Obviously, it is called **README**, so you are **reading** me now. 
 I'm a 14-year-old who enjoys programming small things as a hobby. I have plenty of experience in Node.js (JS/TS) and Python.
 You can talk to me at [dsc.gg/matrixbyte](https://dsc.gg/matrixbyte).
