@@ -7,20 +7,25 @@
 
 <div align="left">
 Obviously, it is called <b>README</b>, so you are <b>reading</b> me now.<br> 
-I'm a 14-year-old who enjoys programming small things as a hobby. <br>
+I'm a 14-year-old who enjoys programming things as a hobby. <br>
 I have plenty of experience in Node.js (JS/TS) and Python.<br>
 You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.<br>
 </div>
 
 <br />
 
-### :zap: Recent Activity
+### ⚡ Projects
 
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/MatrixByte/.github/issues/1) in [MatrixByte/.github](https://github.com/MatrixByte/.github)
-2. ❗️ Opened issue [#1](https://github.com/MatrixByte/.github/issues/1) in [MatrixByte/.github](https://github.com/MatrixByte/.github)
-3. 💪 Opened PR [#288](https://github.com/is-a-good-dev/register/pull/288) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-4. 💪 Opened PR [#287](https://github.com/is-a-good-dev/register/pull/287) in [is-a-good-dev/register](https://github.com/is-a-good-dev/register)
-5. ❌ Closed PR [#4073](https://github.com/is-a-dev/register/pull/4073) in [is-a-dev/register](https://github.com/is-a-dev/register)
-<!--END_SECTION:activity-->
+1. 🎞️ [Vegenta](https://vegenta.vercel.app): Anime Streaming Site Website Build with Nextjs and Vegenta's API.
+2. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey): Open Source Discord bot created by MatrixByte.
+3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt): Watch YouTube without any ads !!
+4. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.
 
+<br />
+
+### 📄 Source Codes -
+
+1. 🎞️ [Vegenta](https://github.com/avalynndev/vegenta)
+2. 😺 [avalynndev](https://github.com/uzukidev/avalynndev)
+3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt)
+4. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey)
