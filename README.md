@@ -29,3 +29,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 2. 😺 [avalynndev](https://github.com/uzukidev/avalynndev)
 3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt)
 4. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey)
+
+### Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
