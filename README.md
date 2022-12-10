@@ -18,7 +18,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 
 1. 🎞️ [Vegenta](https://vegenta.vercel.app): Anime Streaming Site Website Build with Nextjs and Vegenta's API.
 2. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey): Open Source Discord bot created by MatrixByte.
-3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt): Watch YouTube without any ads !!
+3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt): Watch YouTube without any ads
 4. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.
 
 <br />
