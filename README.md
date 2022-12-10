@@ -12,7 +12,6 @@ I have plenty of experience in Node.js (JS/TS) and Python.<br>
 You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.<br>
 </div>
 
-<br />
 
 ### ⚡ Projects
 
@@ -21,7 +20,6 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt): Watch YouTube without any ads
 4. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.
 
-<br />
 
 ### 📄 Source Codes -
 
@@ -30,7 +28,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt)
 4. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey)
 
-### Recent Activity
+### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 6 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
@@ -39,3 +37,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 4. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)
 5. ⬆️ Pushed 1 commit(s) to [uzukidev/vegenta](https://github.com/uzukidev/vegenta)
 <!--RECENT_ACTIVITY:end-->
+
+<br />
+
+![Snake Commits](https://raw.githubusercontent.com/avalynndev/avalynndev/e7cc130b71cdb75f5598d2d6c3076f6aa0f2585b/github-contribution-grid-snake.svg)
