@@ -1,7 +1,7 @@
 settings:
   username: "avalynndev"
   commit_msg: "Update Recent Activity"
-  max_lines: 50
+  max_lines: 10
   readme_file: "README.md"
   url_text: "{REPO}{ID}"
   date:
