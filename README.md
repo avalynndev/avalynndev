@@ -12,21 +12,15 @@ I have plenty of experience in Node.js (JS/TS) and Python.<br>
 You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.<br>
 </div>
 
-
 ### ⚡ Projects
-
 1. 🎞️ [Vegenta](https://vegenta.vercel.app): Anime Streaming Site Website Build with Nextjs and Vegenta's API.
 2. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey): Open Source Discord bot created by MatrixByte.
 3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt): Watch YouTube without any ads
 4. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.
 
-
 ### 📄 Source Codes -
-
 1. 🎞️ [Vegenta](https://github.com/avalynndev/vegenta)
 2. 😺 [avalynndev](https://github.com/uzukidev/avalynndev)
-3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt)
-4. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey)
 
 ### 📄 Recent Activity
 
