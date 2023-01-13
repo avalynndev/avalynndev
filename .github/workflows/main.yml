@@ -7,14 +7,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  activity:
+    name: Update activity
     runs-on: ubuntu-latest
-    name: Update README
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-activity@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
+    - uses: actions/checkout@v2
+    - uses: Readme-Workflows/recent-activity@v2.3.1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
           CONFIG_FILE: "config.yml"
