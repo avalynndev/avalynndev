@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#34](https://github.com/EasyScriptJS/EasyScript/pull/34#issuecomment-1381473521) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-2. ❌ Closed PR [#34](https://github.com/EasyScriptJS/EasyScript/pull/34) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-3. 💬 Commented on [#34](https://github.com/EasyScriptJS/EasyScript/pull/34#issuecomment-1381473296) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-4. ❗️ Opened issue [#35](https://github.com/EasyScriptJS/EasyScript/issues/35) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-5. 💬 Commented on [#34](https://github.com/EasyScriptJS/EasyScript/pull/34#discussion_r1069054261) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+1. ✔️ Closed issue [#35](https://github.com/EasyScriptJS/EasyScript/issues/35) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. 💬 Commented on [#35](https://github.com/EasyScriptJS/EasyScript/issues/35#issuecomment-1381601382) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+3. ⬆️ Pushed 3 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
+4. 🔱 Forked [avalynndev/easyscript.js.org](https://github.com/avalynndev/easyscript.js.org) from [EasyScriptJS/easyscript.js.org](https://github.com/EasyScriptJS/easyscript.js.org)<br>
+5. 💬 Commented on [#34](https://github.com/EasyScriptJS/EasyScript/pull/34#issuecomment-1381473521) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 9:55:00 AM
+Last Updated: Friday, January 13th, 2023, 10:18:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
