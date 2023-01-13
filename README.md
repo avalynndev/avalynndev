@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [jujutsugod/jujutsugod](https://github.com/jujutsugod/jujutsugod)<br>
-2. ⬆️ Pushed 1 commit(s) to [jujutsugod/jujutsugod](https://github.com/jujutsugod/jujutsugod)<br>
-3. ⬆️ Pushed 1 commit(s) to [jujutsugod/jujutsugod](https://github.com/jujutsugod/jujutsugod)<br>
-4. ⬆️ Pushed 1 commit(s) to [jujutsugod/jujutsugod](https://github.com/jujutsugod/jujutsugod)<br>
+1. 💬 Commented on [#28](https://github.com/EasyScriptJS/EasyScript/issues/28#issuecomment-1381427534) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. 💪 Opened PR [#34](https://github.com/EasyScriptJS/EasyScript/pull/34) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+3. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
+4. 🔱 Forked [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript) from [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 5. ⬆️ Pushed 1 commit(s) to [jujutsugod/jujutsugod](https://github.com/jujutsugod/jujutsugod)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 7:29:36 AM
+Last Updated: Friday, January 13th, 2023, 7:40:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
