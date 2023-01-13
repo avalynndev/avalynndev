@@ -6,7 +6,7 @@ settings:
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+0:00"
-    text: "###### Last Updated: {DATE}"
+    text: "{DATE}"
     format: "dS mmmm, yyyy @ HH:MMtt Z"
   commit_name: "github-actions"
   commit_email: "actions@github.com"
