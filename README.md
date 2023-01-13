@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
-2. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
-3. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
+1. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+2. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+3. 📔 Created new repository [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
 4. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
 5. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 11:28:07 AM
+Last Updated: Friday, January 13th, 2023, 11:39:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
