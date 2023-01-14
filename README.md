@@ -30,11 +30,11 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 2. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
 3. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
 4. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
-5. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+5. ⭐ Starred [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 14th, 2023, 8:30:55 AM
+Last Updated: Saturday, January 14th, 2023, 8:42:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
