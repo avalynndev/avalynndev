@@ -27,14 +27,14 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
-2. ⬆️ Pushed 2 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
-4. 🔱 Forked [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs) from [simply-devlop/simply-djs](https://github.com/simply-devlop/simply-djs)<br>
-5. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+2. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
+3. ⬆️ Pushed 2 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
+4. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
+5. 🔱 Forked [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs) from [simply-devlop/simply-djs](https://github.com/simply-devlop/simply-djs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 14th, 2023, 4:25:00 PM
+Last Updated: Saturday, January 14th, 2023, 4:42:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
