@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [avalynndev/docs](https://github.com/avalynndev/docs)<br>
-2. 🎉 Merged PR [#2](https://github.com/avalynndev/docs/pull/2) in [avalynndev/docs](https://github.com/avalynndev/docs)<br>
-3. ⬆️ Pushed 4 commit(s) to [avalynndev/docs](https://github.com/avalynndev/docs)<br>
-4. 🎉 Merged PR [#1](https://github.com/avalynndev/docs/pull/1) in [avalynndev/docs](https://github.com/avalynndev/docs)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/docs](https://github.com/avalynndev/docs)<br>
+1. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+2. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/docs](https://github.com/EasyScriptJS/docs)<br>
+3. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
+4. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
+5. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/documentation](https://github.com/EasyScriptJS/documentation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 14th, 2023, 6:49:18 AM
+Last Updated: Saturday, January 14th, 2023, 7:01:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
