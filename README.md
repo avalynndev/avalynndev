@@ -27,14 +27,14 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
-2. 💬 Commented on [#39](https://github.com/EasyScriptJS/EasyScript/pull/39#discussion_r1070548325) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
 3. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
 4. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
-5. 💪 Opened PR [#39](https://github.com/EasyScriptJS/EasyScript/pull/39) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 15th, 2023, 9:59:10 AM
+Last Updated: Sunday, January 15th, 2023, 10:21:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
