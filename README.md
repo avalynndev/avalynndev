@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#37](https://github.com/EasyScriptJS/EasyScript/pull/37#issuecomment-1383059746) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-2. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
-4. ⬆️ Pushed 2 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
+1. 💪 Opened PR [#39](https://github.com/EasyScriptJS/EasyScript/pull/39) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
+3. 🔱 Forked [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript) from [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+4. 💬 Commented on [#37](https://github.com/EasyScriptJS/EasyScript/pull/37#issuecomment-1383059746) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 5. ⬆️ Pushed 1 commit(s) to [avalynndev/simply-djs](https://github.com/avalynndev/simply-djs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 15th, 2023, 8:41:48 AM
+Last Updated: Sunday, January 15th, 2023, 8:52:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
