@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
-2. ⬆️ Pushed 1 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
+1. 🔱 Forked [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript) from [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. 🔱 Forked [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript) from [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+3. ❌ Closed PR [#44](https://github.com/EasyScriptJS/EasyScript/pull/44) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 4. ⬆️ Pushed 1 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
-5. 🔱 Forked [avalynndev/Miruro](https://github.com/avalynndev/Miruro) from [uzukidev/Miruro](https://github.com/uzukidev/Miruro)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 16th, 2023, 1:46:58 PM
+Last Updated: Monday, January 16th, 2023, 1:58:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
