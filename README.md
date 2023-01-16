@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#28](https://github.com/EasyScriptJS/EasyScript/issues/28#issuecomment-1383594595) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-2. 💬 Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#issuecomment-1383567426) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
+1. 💬 Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070937423) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+2. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
+3. 💬 Commented on [#44](https://github.com/EasyScriptJS/EasyScript/pull/44#discussion_r1070935280) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
 4. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
-5. 💪 Opened PR [#44](https://github.com/EasyScriptJS/EasyScript/pull/44) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/EasyScript](https://github.com/avalynndev/EasyScript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 16th, 2023, 7:53:03 AM
+Last Updated: Monday, January 16th, 2023, 8:16:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
