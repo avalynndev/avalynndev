@@ -26,15 +26,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/avalynndev/vegenta/pull/6) in [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
-2. ⬆️ Pushed 2 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
-3. 👍 Approved [#6](https://github.com/avalynndev/vegenta/pull/6#pullrequestreview-1253350057) in [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
-4. ❌ Closed PR [#45](https://github.com/EasyScriptJS/EasyScript/pull/45) in [EasyScriptJS/EasyScript](https://github.com/EasyScriptJS/EasyScript)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
+1. 👍 Approved [#10](https://github.com/avalynndev/vegenta/pull/10#pullrequestreview-1263286815) in [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
+2. ⭐ Starred [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
+3. 🎉 Merged PR [#6](https://github.com/avalynndev/vegenta/pull/6) in [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
+4. ⬆️ Pushed 2 commit(s) to [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
+5. 👍 Approved [#6](https://github.com/avalynndev/vegenta/pull/6#pullrequestreview-1253350057) in [avalynndev/vegenta](https://github.com/avalynndev/vegenta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 20th, 2023, 10:17:22 AM
+Last Updated: Friday, January 20th, 2023, 10:33:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
