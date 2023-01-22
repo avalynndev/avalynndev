@@ -1,0 +1,26 @@
+settings:
+  readme_file: "./TEMPLATE.md"
+  max_lines: 10
+  commit_name: "jujutsugod"
+  commit_email: "jujutsugod0@gmail.com"
+  disabled_events:
+    - "comments"
+    - "push"
+  date:
+    timezone: "Asia/Kolkata"
+    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
+messages:
+  comments: "![comment] Commented on {ID} in {REPO}"
+  issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
+  issue_closed: "![issueClosed] Closed issue {ID} in {REPO}"
+  pr_opened: "![pullrequestopened] Opened PR {ID} in {REPO}"
+  pr_closed: "![pullrequestclosed] Closed PR {ID} in {REPO}"
+  pr_merged: "![pullrequestmerged] Merged PR {ID} in {REPO}"
+  create_repo: "![repoCreated] Created new repository {REPO}"
+  fork_repo: "![fork] Forked {FORK} from {REPO}"
+  wiki_create: "![wiki] Created new wiki page {WIKI} in {REPO}"
+  changes_approved: "![approved] Approved {ID} in {REPO}"
+  changes_requested: "![changesRequested] Requested {AMOUNT} change(s) for {ID} in {REPO}"
+  new_release: "![release] Released {ID} in {REPO}"
+  new_star: "![star] Starred {REPO}"
+  added_member: "![people] Became collaborator on {REPO}"
