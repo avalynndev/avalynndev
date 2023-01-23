@@ -13,15 +13,16 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 </div>
 
 ### ⚡ Projects
-1. 🎞️ [Vegenta](https://vegenta.vercel.app): Anime Streaming Site Website Build with Nextjs and Vegenta's API.
-2. 🤖 [Aubrey](https://github.com/MatrixByte/Aubrey): Open Source Discord bot created by MatrixByte.
-3. ✅ [YT AD-Blocker](https://github.com/uzukidev/ad-block-yt): Watch YouTube without any ads
+1. 🎞️ [Vegenta](https://vegenta.is-an.app): Anime Streaming Site Website Build with Nextjs and Vegenta's API.
+2. 🤖 [Subrey](https://github.com/uzukidev/Subrey): Open Source Discord bot created by me ig?
+3. ✅ [EasyScript](https://www.npmjs.com/package/easyscriptjs): Makes Coding in Javascript very easy!
 4. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.
 5. 📹 [Youtube2Mp3](https://yt2mp3.is-an.app): A website to convert youtube videos into mp3 files.
 
 ### 📄 Source Codes -
 1. 🎞️ [Vegenta](https://github.com/avalynndev/vegenta)
-2. 😺 [avalynndev](https://github.com/uzukidev/avalynndev)
+2. ✅ [EasyScript](https://github.com/EasyScriptJS/EasyScript)
+3. 😺 [avalynndev](https://github.com/uzukidev/avalynndev)
 
 ### 📄 Recent Activity
 
