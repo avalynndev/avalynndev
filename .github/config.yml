@@ -1,5 +1,5 @@
 settings:
-  readme_file: "./TEMPLATE.md"
+  readme_file: "./README.md"
   max_lines: 10
   commit_name: "jujutsugod"
   commit_email: "jujutsugod0@gmail.com"
