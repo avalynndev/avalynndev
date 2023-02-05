@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-2. 💪 Opened PR [#88](https://github.com/tarampampam/free-domains/pull/88) in [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/free-domains](https://github.com/avalynndev/free-domains)<br>
-4. 🔱 Forked [avalynndev/free-domains](https://github.com/avalynndev/free-domains) from [tarampampam/free-domains](https://github.com/tarampampam/free-domains)<br>
-5. 💪 Opened PR [#1](https://github.com/jujutsugod/jujutsugod/pull/1) in [jujutsugod/jujutsugod](https://github.com/jujutsugod/jujutsugod)<br>
+1. 📔 Created new repository [EasyScriptJS/ts](https://github.com/EasyScriptJS/ts)<br>
+2. ⬆️ Pushed 2 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+3. ⬆️ Pushed 2 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+4. 🎉 Merged PR [#1](https://github.com/EasyScriptJS/EasyScriptTS/pull/1) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+5. ❌ Closed PR [#2](https://github.com/EasyScriptJS/EasyScriptTS/pull/2) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 5th, 2023, 5:59:47 AM
+Last Updated: Sunday, February 5th, 2023, 6:24:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
