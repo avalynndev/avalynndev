@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/9Aniplay](https://github.com/avalynndev/9Aniplay)<br>
-2. ⬆️ Pushed 1 commit(s) to [avalynndev/9Aniplay](https://github.com/avalynndev/9Aniplay)<br>
-3. 📔 Created new repository [valcono/examples](https://github.com/valcono/examples)<br>
-4. 📔 Created new repository [valcono/valcono](https://github.com/valcono/valcono)<br>
+1. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+2. ⬆️ Pushed 2 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+3. 🎉 Merged PR [#3](https://github.com/EasyScriptJS/EasyScriptTS/pull/3) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+4. ⬆️ Pushed 1 commit(s) to [avalynndev/9Aniplay](https://github.com/avalynndev/9Aniplay)<br>
 5. ⬆️ Pushed 1 commit(s) to [avalynndev/9Aniplay](https://github.com/avalynndev/9Aniplay)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 12th, 2023, 10:21:10 AM
+Last Updated: Sunday, February 12th, 2023, 10:34:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
