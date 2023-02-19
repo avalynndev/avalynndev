@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.2](https://github.com/EasyScriptJS/EasyScriptTS/releases/tag/v1.0.2) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-2. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-3. ⭐ Starred [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-4. 🔴 Requested 1 change(s) for [#4](https://github.com/EasyScriptJS/EasyScriptTS/pull/4#pullrequestreview-1304725689) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
-5. 💬 Commented on [#4](https://github.com/EasyScriptJS/EasyScriptTS/pull/4#issuecomment-1435908887) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+1. ⭐ Starred [is-a-good-dev/register](https://github.com/is-a-good-dev/register)<br>
+2. ✌️ Released [v1.0.2](https://github.com/EasyScriptJS/EasyScriptTS/releases/tag/v1.0.2) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+3. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+4. ⭐ Starred [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+5. 🔴 Requested 1 change(s) for [#4](https://github.com/EasyScriptJS/EasyScriptTS/pull/4#pullrequestreview-1304725689) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 19th, 2023, 7:48:47 AM
+Last Updated: Sunday, February 19th, 2023, 8:00:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
