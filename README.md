@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [bettercodeui/Subrey](https://github.com/bettercodeui/Subrey)<br>
-2. 📔 Created new repository [bettercodeui/.github](https://github.com/bettercodeui/.github)<br>
+1. ⭐ Starred [bettercodeui/api](https://github.com/bettercodeui/api)<br>
+2. ⬆️ Pushed 1 commit(s) to [bettercodeui/Subrey](https://github.com/bettercodeui/Subrey)<br>
 3. ⬆️ Pushed 1 commit(s) to [bettercodeui/Subrey](https://github.com/bettercodeui/Subrey)<br>
-4. ⬆️ Pushed 1 commit(s) to [bettercodeui/Subrey](https://github.com/bettercodeui/Subrey)<br>
+4. 📔 Created new repository [bettercodeui/.github](https://github.com/bettercodeui/.github)<br>
 5. ⬆️ Pushed 1 commit(s) to [bettercodeui/Subrey](https://github.com/bettercodeui/Subrey)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 23rd, 2023, 11:25:32 AM
+Last Updated: Thursday, February 23rd, 2023, 11:37:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
