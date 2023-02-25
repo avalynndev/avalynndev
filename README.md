@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
-2. 📔 Created new repository [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
-3. 📔 Created new repository [bettercodehelp/create-discord-bot](https://github.com/bettercodehelp/create-discord-bot)<br>
-4. ⬆️ Pushed 1 commit(s) to [bettercodehelp/api](https://github.com/bettercodehelp/api)<br>
-5. ⬆️ Pushed 2 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+1. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
+2. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
+3. 📔 Created new repository [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
+4. 📔 Created new repository [bettercodehelp/create-discord-bot](https://github.com/bettercodehelp/create-discord-bot)<br>
+5. ⬆️ Pushed 1 commit(s) to [bettercodehelp/api](https://github.com/bettercodehelp/api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 25th, 2023, 3:37:33 PM
+Last Updated: Saturday, February 25th, 2023, 3:48:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
