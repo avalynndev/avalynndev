@@ -27,7 +27,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
+1. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
 2. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
 3. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
 4. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
@@ -35,7 +35,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 26th, 2023, 2:46:04 PM
+Last Updated: Sunday, February 26th, 2023, 2:57:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
