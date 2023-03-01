@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/Yash094/Memer-API-Docs/pull/1#issuecomment-1448308696) in [Yash094/Memer-API-Docs](https://github.com/Yash094/Memer-API-Docs)<br>
-2. 💪 Opened PR [#1](https://github.com/Yash094/Memer-API-Docs/pull/1) in [Yash094/Memer-API-Docs](https://github.com/Yash094/Memer-API-Docs)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/Memer-API-Docs](https://github.com/avalynndev/Memer-API-Docs)<br>
-4. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
+1. ⬆️ Pushed 1 commit(s) to [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+2. 🎉 Merged PR [#7](https://github.com/EasyScriptJS/EasyScriptTS/pull/7) in [EasyScriptJS/EasyScriptTS](https://github.com/EasyScriptJS/EasyScriptTS)<br>
+3. 💬 Commented on [#1](https://github.com/Yash094/Memer-API-Docs/pull/1#issuecomment-1448308696) in [Yash094/Memer-API-Docs](https://github.com/Yash094/Memer-API-Docs)<br>
+4. 💪 Opened PR [#1](https://github.com/Yash094/Memer-API-Docs/pull/1) in [Yash094/Memer-API-Docs](https://github.com/Yash094/Memer-API-Docs)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/Memer-API-Docs](https://github.com/avalynndev/Memer-API-Docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 1st, 2023, 3:34:50 AM
+Last Updated: Wednesday, March 1st, 2023, 3:49:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
