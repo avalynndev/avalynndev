@@ -40,4 +40,4 @@ Last Updated: Friday, April 14th, 2023, 5:25:26 PM
 
 <br />
 
-![Snake Commits](https://raw.githubusercontent.com/avalynndev/avalynndev/9d5c530e6413dff1c81e9b888a94cd753cba477d/github-contribution-grid-snake.svg)
+![Snake Commits](https://raw.githubusercontent.com/avalynndev/avalynndev/output/github-contribution-grid-snake.svg)
