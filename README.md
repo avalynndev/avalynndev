@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
-2. ⬆️ Pushed 1 commit(s) to [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
-3. 📔 Created new repository [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
-4. ⬆️ Pushed 1 commit(s) to [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
-5. 🎉 Merged PR [#1](https://github.com/bettercodehelp/ts-docs/pull/1) in [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
+1. 🤝 Became collaborator on [avalynndev/prismcore](https://github.com/avalynndev/prismcore)<br>
+2. 🤝 Became collaborator on [avalynndev/prismcore](https://github.com/avalynndev/prismcore)<br>
+3. ⬆️ Pushed 1 commit(s) to [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
+4. ⬆️ Pushed 1 commit(s) to [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
+5. 📔 Created new repository [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 4:41:45 AM
+Last Updated: Monday, May 8th, 2023, 4:52:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
