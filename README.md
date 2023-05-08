@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
-2. 🎉 Merged PR [#1](https://github.com/bettercodehelp/ts-docs/pull/1) in [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
-3. 👍 Approved [#1](https://github.com/bettercodehelp/ts-docs/pull/1#pullrequestreview-1415888809) in [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
-4. ⬆️ Pushed 1 commit(s) to [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
-5. 🎉 Merged PR [#21](https://github.com/bettercodehelp/EasyScriptTS/pull/21) in [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
+1. ⬆️ Pushed 1 commit(s) to [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
+2. 📔 Created new repository [PrismCoreGD/.github](https://github.com/PrismCoreGD/.github)<br>
+3. ⬆️ Pushed 1 commit(s) to [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
+4. 🎉 Merged PR [#1](https://github.com/bettercodehelp/ts-docs/pull/1) in [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
+5. 👍 Approved [#1](https://github.com/bettercodehelp/ts-docs/pull/1#pullrequestreview-1415888809) in [bettercodehelp/ts-docs](https://github.com/bettercodehelp/ts-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 3:31:42 AM
+Last Updated: Monday, May 8th, 2023, 3:42:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
