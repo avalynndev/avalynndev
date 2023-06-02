@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/isaactan98/portfolio/issues/1) in [isaactan98/portfolio](https://github.com/isaactan98/portfolio)<br>
-2. ⬆️ Pushed 1 commit(s) to [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
-3. 🎉 Merged PR [#38](https://github.com/bettercodehelp/EasyScriptTS/pull/38) in [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
-4. ⬆️ Pushed 1 commit(s) to [hycross/hycross](https://github.com/hycross/hycross)<br>
-5. ⬆️ Pushed 1 commit(s) to [PixelKing990/AddYourAd](https://github.com/PixelKing990/AddYourAd)<br>
+1. ⬆️ Pushed 1 commit(s) to [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
+2. 🎉 Merged PR [#39](https://github.com/bettercodehelp/EasyScriptTS/pull/39) in [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
+3. 👍 Approved [#39](https://github.com/bettercodehelp/EasyScriptTS/pull/39#pullrequestreview-1456596449) in [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
+4. ⬆️ Pushed 1 commit(s) to [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
+5. 🎉 Merged PR [#40](https://github.com/bettercodehelp/EasyScriptTS/pull/40) in [bettercodehelp/EasyScriptTS](https://github.com/bettercodehelp/EasyScriptTS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 2nd, 2023, 3:21:06 AM
+Last Updated: Friday, June 2nd, 2023, 3:32:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
