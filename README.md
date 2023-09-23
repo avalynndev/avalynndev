@@ -13,11 +13,11 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 </div>
 
 ### ⚡ Projects
-1. 🎞️ [Vegenta](https://vegenta.is-an.app): Anime Streaming Site Website Build with Nextjs and Vegenta's API.
-2. 🤖 [Subrey](https://github.com/uzukidev/Subrey): Open Source Discord bot created by me ig?
-3. ✅ [EasyScript](https://www.npmjs.com/package/easyscriptjs): Makes Coding in Javascript very easy!
-4. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.
-5. 📹 [Youtube2Mp3](https://yt2mp3.is-an.app): A website to convert youtube videos into mp3 files.
+1. 🤖 [Subrey](https://github.com/bettercodehelp/Subrey): Open Source Discord bot created by me ig?
+2. ✅ [EasyScript](https://www.npmjs.com/package/easyscript.ts): Makes Coding in Typescript very easy!
+3. 📹 [Youtube2Mp3](https://yt2mp3.is-an.app): A website to convert youtube videos into mp3 files.
+<!--4. ✅ [Ecorn](website_link): A Ecommerce website made with nextjs for my beloved Sahasra-->
+<!--5. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.-->
 
 ### 📄 Source Codes -
 1. 🎞️ [Vegenta](https://github.com/avalynndev/vegenta)
