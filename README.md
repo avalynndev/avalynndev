@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ACoolPeople/Curly-Spoofer](https://github.com/ACoolPeople/Curly-Spoofer)<br>
-2. ⭐ Starred [3moLORD/app-](https://github.com/3moLORD/app-)<br>
-3. ⭐ Starred [zack/membership](https://github.com/zack/membership)<br>
-4. ⭐ Starred [Abhinav-Tirumani/abhinav](https://github.com/Abhinav-Tirumani/abhinav)<br>
-5. ⭐ Starred [NoErrorStudio/Nexus](https://github.com/NoErrorStudio/Nexus)<br>
+1. ⭐ Starred [ACoolPeople/FNT-V2](https://github.com/ACoolPeople/FNT-V2)<br>
+2. ⭐ Starred [ACoolPeople/Curly-Spoofer](https://github.com/ACoolPeople/Curly-Spoofer)<br>
+3. ⭐ Starred [3moLORD/app-](https://github.com/3moLORD/app-)<br>
+4. ⭐ Starred [zack/membership](https://github.com/zack/membership)<br>
+5. ⭐ Starred [Abhinav-Tirumani/abhinav](https://github.com/Abhinav-Tirumani/abhinav)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 23rd, 2023, 6:58:15 PM
+Last Updated: Thursday, November 23rd, 2023, 7:14:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
