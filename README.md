@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avauselses/avauselses](https://github.com/avauselses/avauselses)<br>
-2. 📔 Created new repository [avauselses/avauselses](https://github.com/avauselses/avauselses)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
-4. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
+1. ⬆️ Pushed 1 commit(s) to [avauselses/avauselses.github.io](https://github.com/avauselses/avauselses.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [avauselses/avauselses.github.io](https://github.com/avauselses/avauselses.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [avauselses/avauselses](https://github.com/avauselses/avauselses)<br>
+4. 📔 Created new repository [avauselses/avauselses](https://github.com/avauselses/avauselses)<br>
 5. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 10th, 2023, 7:32:44 AM
+Last Updated: Sunday, December 10th, 2023, 7:40:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
