@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [AvalynnArchive/animixplay](https://github.com/AvalynnArchive/animixplay)<br>
-2. ⬆️ Pushed 2 commit(s) to [avalynndev/Discortics-Nuxt-Tailwind](https://github.com/avalynndev/Discortics-Nuxt-Tailwind)<br>
-3. 🎉 Merged PR [#1](https://github.com/avalynndev/Discortics-Nuxt-Tailwind/pull/1) in [avalynndev/Discortics-Nuxt-Tailwind](https://github.com/avalynndev/Discortics-Nuxt-Tailwind)<br>
-4. 💪 Opened PR [#1](https://github.com/avalynndev/Discortics-Nuxt-Tailwind/pull/1) in [avalynndev/Discortics-Nuxt-Tailwind](https://github.com/avalynndev/Discortics-Nuxt-Tailwind)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/Discortics-Nuxt-Tailwind](https://github.com/avalynndev/Discortics-Nuxt-Tailwind)<br>
+1. ⬆️ Pushed 1 commit(s) to [avalynndev/DiscordJS-V14-Bot-Template](https://github.com/avalynndev/DiscordJS-V14-Bot-Template)<br>
+2. 🔱 Forked [avalynndev/DiscordJS-V14-Bot-Template](https://github.com/avalynndev/DiscordJS-V14-Bot-Template) from [TFAGaming/DiscordJS-V14-Bot-Template](https://github.com/TFAGaming/DiscordJS-V14-Bot-Template)<br>
+3. ⬆️ Pushed 1 commit(s) to [AvalynnArchive/animixplay](https://github.com/AvalynnArchive/animixplay)<br>
+4. ⬆️ Pushed 2 commit(s) to [avalynndev/Discortics-Nuxt-Tailwind](https://github.com/avalynndev/Discortics-Nuxt-Tailwind)<br>
+5. 🎉 Merged PR [#1](https://github.com/avalynndev/Discortics-Nuxt-Tailwind/pull/1) in [avalynndev/Discortics-Nuxt-Tailwind](https://github.com/avalynndev/Discortics-Nuxt-Tailwind)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 1st, 2024, 9:29:18 AM
+Last Updated: Monday, January 1st, 2024, 9:37:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
