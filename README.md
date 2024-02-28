@@ -27,7 +27,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
+1. ⬆️ Pushed 1 commit(s) to [animetize/animetize-web](https://github.com/animetize/animetize-web)<br>
 2. ⬆️ Pushed 1 commit(s) to [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
 3. ⬆️ Pushed 1 commit(s) to [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
 4. ⬆️ Pushed 1 commit(s) to [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
@@ -35,7 +35,7 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 28th, 2024, 9:44:34 AM
+Last Updated: Wednesday, February 28th, 2024, 9:52:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
