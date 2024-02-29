@@ -27,15 +27,15 @@ You can talk to me at <a href="https://dsc.gg/matrixbyte">dsc.gg/matrixbyte</a>.
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
-2. 🔱 Forked [avalynndev/animetize-docs](https://github.com/avalynndev/animetize-docs) from [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
-3. 📔 Created new repository [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
-4. ⬆️ Pushed 1 commit(s) to [animetize/animetize-web](https://github.com/animetize/animetize-web)<br>
-5. ⬆️ Pushed 1 commit(s) to [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
+1. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-docs](https://github.com/avalynndev/animetize-docs)<br>
+2. ⬆️ Pushed 1 commit(s) to [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
+3. ⬆️ Pushed 1 commit(s) to [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
+4. 🔱 Forked [avalynndev/animetize-docs](https://github.com/avalynndev/animetize-docs) from [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
+5. 📔 Created new repository [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 29th, 2024, 5:41:40 AM
+Last Updated: Thursday, February 29th, 2024, 5:49:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
