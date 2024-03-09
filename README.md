@@ -39,5 +39,3 @@ Last Updated: Saturday, March 9th, 2024, 10:55:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
-
-![Snake Commits](https://raw.githubusercontent.com/avalynndev/avalynndev/output/github-contribution-grid-snake.svg)
