@@ -27,15 +27,15 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [avalynndev/next-auth-v5-advanced-guide](https://github.com/avalynndev/next-auth-v5-advanced-guide) from [AntonioErdeljac/next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide)<br>
-2. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
-4. ⬆️ Pushed 1 commit(s) to [avalynndev/animexninja-api](https://github.com/avalynndev/animexninja-api)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/animexninja-api](https://github.com/avalynndev/animexninja-api)<br>
+1. ⬆️ Pushed 1 commit(s) to [avalynndev/next-auth-v5-advanced-guide](https://github.com/avalynndev/next-auth-v5-advanced-guide)<br>
+2. ⬆️ Pushed 1 commit(s) to [avalynndev/next-auth-v5-advanced-guide](https://github.com/avalynndev/next-auth-v5-advanced-guide)<br>
+3. 🔱 Forked [avalynndev/next-auth-v5-advanced-guide](https://github.com/avalynndev/next-auth-v5-advanced-guide) from [AntonioErdeljac/next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide)<br>
+4. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/ecorn](https://github.com/avalynndev/ecorn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 10th, 2024, 7:40:14 AM
+Last Updated: Sunday, March 10th, 2024, 7:48:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
