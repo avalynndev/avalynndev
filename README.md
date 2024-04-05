@@ -27,15 +27,15 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/Subrey](https://github.com/InfiniteDevs/Subrey)<br>
+1. ⭐ Starred [InfiniteDevs/Subrey](https://github.com/InfiniteDevs/Subrey)<br>
 2. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/Subrey](https://github.com/InfiniteDevs/Subrey)<br>
-3. ⭐ Starred [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
-4. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/.github](https://github.com/InfiniteDevs/.github)<br>
-5. 📔 Created new repository [InfiniteDevs/.github](https://github.com/InfiniteDevs/.github)<br>
+3. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/Subrey](https://github.com/InfiniteDevs/Subrey)<br>
+4. ⭐ Starred [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
+5. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/.github](https://github.com/InfiniteDevs/.github)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 5th, 2024, 1:23:47 PM
+Last Updated: Friday, April 5th, 2024, 1:31:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
