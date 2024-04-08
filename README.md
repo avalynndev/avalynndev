@@ -14,15 +14,14 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 
 ### ⚡ Projects
 1. 🤖 [Subrey](https://github.com/bettercodehelp/Subrey): Open Source multipurpose Discord bot created by me.
-2. ✅ [EasyScript](https://www.npmjs.com/package/easyscript.ts): Makes Coding in Typescript very easy!
+2. 😺 [avalynndev](https://avalynn.vercel.app): avalynndev's official profile website.
 3. 📹 [Youtube2Mp3](https://yt2mp3.is-an.app): A website to convert youtube videos into mp3 files.
 <!--4. ✅ [Ecorn](website_link): A Ecommerce website made with nextjs for my beloved Sahasra-->
-<!--5. 😺 [avalynndev](https://avalynn.is-a-good.dev): Avalynndev's official profile website.-->
 
 ### 📄 Source Codes -
-1. 🎞️ [Vegenta](https://github.com/avalynndev/vegenta)
-2. ✅ [EasyScript.ts](https://github.com/bettercodehelp/EasyScriptTS)
-3. 😺 [avalynndev](https://github.com/avalynndev/avalynn.is-a.dev)
+1. 🎞️ [Vegenta](https://github.com/InfiniteDevs/vegenta)
+2. ✅ [EasyScript.ts](https://github.com/InfiniteDevs/Subrey)
+3. 😺 [avalynndev](https://github.com/avalynndev/avalynn-web)
 
 ### 📄 Recent Activity
 
