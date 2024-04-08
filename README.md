@@ -7,7 +7,7 @@
 
 <div align="left">
 Obviously, it is called <b>README</b>, so you are <b>reading</b> me now.<br> 
-I'm a 14-year-old who enjoys programming things as a hobby. <br>
+I'm a 15-year-old who enjoys programming things as a hobby. <br>
 I have plenty of experience in Node.js (JS/TS) and Python.<br>
 You can talk to me by <a href="https://discord.com/users/735059235141845003">Direct Messaging</a> me on discord.<br>
 </div>
