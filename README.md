@@ -26,15 +26,15 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/Magnimont/Mikuni-Website/issues/3#issuecomment-2044083575) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
-2. ✔️ Closed issue [#3](https://github.com/Magnimont/Mikuni-Website/issues/3) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
-3. 💬 Commented on [#4](https://github.com/Magnimont/Mikuni-Website/pull/4#issuecomment-2044083345) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
-4. ❌ Closed PR [#4](https://github.com/Magnimont/Mikuni-Website/pull/4) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
-5. ⬆️ Pushed 1 commit(s) to [Magnimont/linktree-minimal-alternative](https://github.com/Magnimont/linktree-minimal-alternative)<br>
+1. ⬆️ Pushed 1 commit(s) to [Magnimont/linktree-alternative](https://github.com/Magnimont/linktree-alternative)<br>
+2. 💬 Commented on [#3](https://github.com/Magnimont/Mikuni-Website/issues/3#issuecomment-2044083575) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
+3. ✔️ Closed issue [#3](https://github.com/Magnimont/Mikuni-Website/issues/3) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
+4. 💬 Commented on [#4](https://github.com/Magnimont/Mikuni-Website/pull/4#issuecomment-2044083345) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
+5. ❌ Closed PR [#4](https://github.com/Magnimont/Mikuni-Website/pull/4) in [Magnimont/Mikuni-Website](https://github.com/Magnimont/Mikuni-Website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 9th, 2024, 3:56:59 AM
+Last Updated: Tuesday, April 9th, 2024, 4:16:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
