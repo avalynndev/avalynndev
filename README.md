@@ -26,15 +26,15 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
-2. 🎉 Merged PR [#14](https://github.com/InfiniteDevs/vegenta/pull/14) in [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
+1. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
+2. ⬆️ Pushed 2 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
 3. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
-4. 🎉 Merged PR [#19](https://github.com/InfiniteDevs/vegenta/pull/19) in [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
-5. ⬆️ Pushed 1 commit(s) to [Magnimont/linktree-alternative](https://github.com/Magnimont/linktree-alternative)<br>
+4. 🎉 Merged PR [#14](https://github.com/InfiniteDevs/vegenta/pull/14) in [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
+5. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/vegenta](https://github.com/InfiniteDevs/vegenta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 13th, 2024, 7:42:24 AM
+Last Updated: Saturday, April 13th, 2024, 7:50:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
