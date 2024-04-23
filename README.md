@@ -26,15 +26,15 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
-2. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
-3. 💬 Commented on [#9](https://github.com/InfiniteDevs/animunet/pull/9#issuecomment-2069109540) in [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
-4. 💬 Commented on [#6](https://github.com/InfiniteDevs/animunet/pull/6#issuecomment-2069109077) in [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
-5. ⬆️ Pushed 2 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
+1. ⬆️ Pushed 1 commit(s) to [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
+2. ⬆️ Pushed 1 commit(s) to [animetize/animetize-docs](https://github.com/animetize/animetize-docs)<br>
+3. ⭐ Starred [animetize/animetize-api](https://github.com/animetize/animetize-api)<br>
+4. ⬆️ Pushed 1 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
+5. 💬 Commented on [#9](https://github.com/InfiniteDevs/animunet/pull/9#issuecomment-2069109540) in [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 23rd, 2024, 5:26:34 AM
+Last Updated: Tuesday, April 23rd, 2024, 5:36:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
