@@ -26,15 +26,15 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-2. 🎉 Merged PR [#15](https://github.com/avalynndev/animetize-api/pull/15) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-3. ⬆️ Pushed 2 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
-4. 🎉 Merged PR [#31](https://github.com/InfiniteDevs/animunet/pull/31) in [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
-5. ⬆️ Pushed 2 commit(s) to [InfiniteDevs/animunet](https://github.com/InfiniteDevs/animunet)<br>
+1. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+2. 🎉 Merged PR [#14](https://github.com/avalynndev/enjoytown/pull/14) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+3. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+4. 🎉 Merged PR [#13](https://github.com/avalynndev/enjoytown/pull/13) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 28th, 2024, 8:57:55 AM
+Last Updated: Tuesday, May 28th, 2024, 9:15:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br />
