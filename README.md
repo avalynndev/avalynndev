@@ -12,16 +12,22 @@ I have plenty of experience in Node.js (JS/TS) and Python.<br>
 You can talk to me by <a href="https://discord.com/users/735059235141845003">Direct Messaging</a> me on discord.<br>
 </div>
 
-### ⚡ Projects
-1. 🤖 [Subrey](https://github.com/bettercodehelp/Subrey): Open Source multipurpose Discord bot created by me.
-2. 😺 [avalynndev](https://avalynn.vercel.app): avalynndev's official profile website.
-3. 📹 [Youtube2Mp3](https://yt2mp3.is-an.app): A website to convert youtube videos into mp3 files.
-<!--4. ✅ [Ecorn](website_link): A Ecommerce website made with nextjs for my beloved Sahasra-->
+### ⚡Top Projects
+1. 🎞️ [animunet](https://animunet.vercel.app): a website where you can watch anime, created with animetize-api
+2. 🎉 [animetize-api](https://animetize-api.vercel.app): API to fetch info on anime from gogoanime 
+3. 📹 [enjoytown](https://enjoytown.netlify.app/): a website where you can watch k-drama, anime, movies, tv shows and read manga for free.
+2. 🤖 [Subrey](https://github.com/InfiniteDevs/Subrey): open source multipurpose discord bot
+3. 😺 [avalynndev](https://avalynn.vercel.app): my official profile website.
+
+`Made with ❤️ for sahasra`
 
 ### 📄 Source Codes -
 1. 🎞️ [Vegenta](https://github.com/InfiniteDevs/vegenta)
-2. ✅ [EasyScript.ts](https://github.com/InfiniteDevs/Subrey)
-3. 😺 [avalynndev](https://github.com/avalynndev/avalynn-web)
+2. 🎉 [animetize-api](https://github.com/avalynndev/animetize-api)
+3. 📹 [enjoytown](https://github.com/avalynndev/enjoytown) 
+4. 🎞️ [animunet](https://github.com/InfiniteDevs/animunet)
+5. ✅ [Subrey](https://github.com/InfiniteDevs/Subrey)
+6. 😺 [avalynndev](https://github.com/avalynndev/avalynn-web)
 
 ### 📄 Recent Activity
 
