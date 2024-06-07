@@ -13,20 +13,17 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 </div>
 
 ### ⚡Top Projects
-1. 🎞️ [animunet](https://animunet.vercel.app): a website where you can watch anime, created with animetize-api
-2. 🎉 [animetize-api](https://animetize-api.vercel.app): API to fetch info on anime from gogoanime 
-3. 📹 [enjoytown](https://enjoytown.netlify.app/): a website where you can watch k-drama, anime, movies, tv shows and read manga for free.
+1. 📹 [enjoytown](https://enjoytown.netlify.app/): a website where you can watch k-drama, anime, movies, tv shows and read manga for free.
+2. 🎞️ [animunet](https://animunet.vercel.app): a website where you can watch anime, created with animetize-api
+3. 🎉 [animetize-api](https://animetize-api.vercel.app): API to fetch info on anime from gogoanime 
 2. 🤖 [Subrey](https://github.com/InfiniteDevs/Subrey): open source multipurpose discord bot
-3. 😺 [avalynndev](https://avalynn.vercel.app): my official profile website.
-
-`Made with ❤️ for sahasra`
 
 ### 📄 Source Codes -
-1. 🎞️ [Vegenta](https://github.com/InfiniteDevs/vegenta)
-2. 🎉 [animetize-api](https://github.com/avalynndev/animetize-api)
-3. 📹 [enjoytown](https://github.com/avalynndev/enjoytown) 
-4. 🎞️ [animunet](https://github.com/InfiniteDevs/animunet)
-5. ✅ [Subrey](https://github.com/InfiniteDevs/Subrey)
+1. 📹 [enjoytown](https://github.com/avalynndev/enjoytown) 
+2. 🎞️ [Vegenta](https://github.com/InfiniteDevs/vegenta)
+3. 🎞️ [animunet](https://github.com/InfiniteDevs/animunet)
+4. 🎉 [animetize-api](https://github.com/avalynndev/animetize-api)
+5. 🤖 [Subrey](https://github.com/InfiniteDevs/Subrey)
 6. 😺 [avalynndev](https://github.com/avalynndev/avalynn-web)
 
 ### 📄 Recent Activity
