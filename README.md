@@ -42,7 +42,3 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Friday, June 7th, 2024, 5:53:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-<br />
-
-![Snake Commits](https://raw.githubusercontent.com/avalynndev/avalynndev/e7cc130b71cdb75f5598d2d6c3076f6aa0f2585b/github-contribution-grid-snake.svg)
