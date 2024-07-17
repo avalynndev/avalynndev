@@ -29,13 +29,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-2. 🎉 Merged PR [#54](https://github.com/avalynndev/enjoytown/pull/54) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+1. 📔 Created new repository [avalynndev/awesome-shadcn-projects](https://github.com/avalynndev/awesome-shadcn-projects)<br>
+2. ❗️ Opened issue [#76](https://github.com/birobirobiro/awesome-shadcn-ui/issues/76) in [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui)<br>
 3. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-4. 🎉 Merged PR [#55](https://github.com/avalynndev/enjoytown/pull/55) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+4. 🎉 Merged PR [#54](https://github.com/avalynndev/enjoytown/pull/54) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
 5. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 17th, 2024, 2:10:50 PM
+Last Updated: Wednesday, July 17th, 2024, 2:28:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
