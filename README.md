@@ -29,13 +29,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [avalynndev/shadcn-gen](https://github.com/avalynndev/shadcn-gen)<br>
-2. ⬆️ Pushed 1 commit(s) to [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-4. ⬆️ Pushed 1 commit(s) to [avalynndev/awesome-nextui](https://github.com/avalynndev/awesome-nextui)<br>
+1. ⬆️ Pushed 1 commit(s) to [avalynndev/avalynndev](https://github.com/avalynndev/avalynndev)<br>
+2. 📔 Created new repository [avalynndev/shadcn-gen](https://github.com/avalynndev/shadcn-gen)<br>
+3. ⬆️ Pushed 1 commit(s) to [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
+4. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
 5. ⬆️ Pushed 1 commit(s) to [avalynndev/awesome-nextui](https://github.com/avalynndev/awesome-nextui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 3rd, 2024, 11:44:06 AM
+Last Updated: Saturday, August 3rd, 2024, 11:51:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
