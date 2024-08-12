@@ -29,13 +29,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-2. 🎉 Merged PR [#17](https://github.com/avalynndev/animetize-api/pull/17) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/memerz](https://github.com/avalynndev/memerz)<br>
-4. ⬆️ Pushed 1 commit(s) to [avalynndev/memer.ts-docs](https://github.com/avalynndev/memer.ts-docs)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/memer.ts](https://github.com/avalynndev/memer.ts)<br>
+1. ⬆️ Pushed 2 commit(s) to [avalynndev/animunet](https://github.com/avalynndev/animunet)<br>
+2. 🎉 Merged PR [#87](https://github.com/avalynndev/animunet/pull/87) in [avalynndev/animunet](https://github.com/avalynndev/animunet)<br>
+3. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+4. 🎉 Merged PR [#17](https://github.com/avalynndev/animetize-api/pull/17) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+5. ⬆️ Pushed 1 commit(s) to [avalynndev/memerz](https://github.com/avalynndev/memerz)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 12th, 2024, 10:56:37 AM
+Last Updated: Monday, August 12th, 2024, 11:12:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
