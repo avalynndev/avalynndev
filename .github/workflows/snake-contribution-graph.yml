@@ -19,7 +19,7 @@ jobs:
       - name: Generate
         uses: Platane/snk@master
         with:
-          github_user_name: jujutsugod
+          github_user_name: avalynndev
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Push
