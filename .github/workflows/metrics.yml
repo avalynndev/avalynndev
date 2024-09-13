@@ -32,13 +32,17 @@ jobs:
           plugin_achievements_secrets: yes       # Display unlocked secrets achievements
           plugin_achievements_ignored: octonaut  # Hide octonaut achievement
           plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
+          plugin_activity: yes
+          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_filter: all # Show all events (use table above to filter events types)  
           plugin_lines: yes
           plugin_lines_delay: 30
+          plugin_lines_sections: repositories, history
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: MOCKED_TOKEN
           use_mocked_data: yes
-          output_action: none
           delay: 120
           user: avalynndev
           plugins_errors_fatal: yes
