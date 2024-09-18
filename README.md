@@ -29,13 +29,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-2. 🎉 Merged PR [#19](https://github.com/avalynndev/animetize-api/pull/19) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+1. ⬆️ Pushed 2 commit(s) to [InfiniteDevs/impact](https://github.com/InfiniteDevs/impact)<br>
+2. 🎉 Merged PR [#1](https://github.com/InfiniteDevs/impact/pull/1) in [InfiniteDevs/impact](https://github.com/InfiniteDevs/impact)<br>
 3. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-4. 🎉 Merged PR [#18](https://github.com/avalynndev/animetize-api/pull/18) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
+4. 🎉 Merged PR [#19](https://github.com/avalynndev/animetize-api/pull/19) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+5. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 18th, 2024, 3:31:49 PM
+Last Updated: Wednesday, September 18th, 2024, 3:40:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
