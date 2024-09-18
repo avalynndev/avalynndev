@@ -29,13 +29,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
-2. 🎉 Merged PR [#52](https://github.com/avalynndev/anonypost/pull/52) in [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
-4. 🎉 Merged PR [#51](https://github.com/avalynndev/anonypost/pull/51) in [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
+1. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+2. 🎉 Merged PR [#19](https://github.com/avalynndev/animetize-api/pull/19) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+3. ⬆️ Pushed 2 commit(s) to [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
+4. 🎉 Merged PR [#18](https://github.com/avalynndev/animetize-api/pull/18) in [avalynndev/animetize-api](https://github.com/avalynndev/animetize-api)<br>
 5. ⬆️ Pushed 1 commit(s) to [avalynndev/anonypost](https://github.com/avalynndev/anonypost)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 18th, 2024, 1:28:31 PM
+Last Updated: Wednesday, September 18th, 2024, 1:39:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
