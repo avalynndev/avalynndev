@@ -29,13 +29,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#129](https://github.com/avalynndev/enjoytown/issues/129#issuecomment-2451398043) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-2. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-3. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-4. 🎉 Merged PR [#149](https://github.com/avalynndev/enjoytown/pull/149) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
-5. ⬆️ Pushed 1 commit(s) to [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+1. 💬 Commented on [#150](https://github.com/avalynndev/enjoytown/pull/150#issuecomment-2451762495) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+2. 💬 Commented on [#150](https://github.com/avalynndev/enjoytown/pull/150#issuecomment-2451734472) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+3. 💬 Commented on [#150](https://github.com/avalynndev/enjoytown/pull/150#issuecomment-2451732545) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+4. 🔴 Requested 1 change(s) for [#150](https://github.com/avalynndev/enjoytown/pull/150#pullrequestreview-2409912741) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
+5. 💬 Commented on [#150](https://github.com/avalynndev/enjoytown/pull/150#issuecomment-2451715500) in [avalynndev/enjoytown](https://github.com/avalynndev/enjoytown)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 1st, 2024, 11:59:44 PM
+Last Updated: Saturday, November 2nd, 2024, 1:41:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
