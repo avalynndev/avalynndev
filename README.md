@@ -2,7 +2,8 @@
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/735059235141845003?bg=1f1f1f&borderRadius=5px">
 </a>
 <a href="https://wakatime.com/@Avalynn" target="_blank">
-	<img width="50%" align="right" alt="All time stats Stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=avalynn&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=All%20Time%20Stats&v=2\&layout=compact">
+	<img width="50%" align="right" alt="Wakatime stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=avalynn&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Wakatime+Stats&v=2\&layout=compact">
+	<img width="50%" align="right" alt="Hackatime Stats" src="https://github-readme-stats-one-liard-37.vercel.app/api/wakatime?username=20813&api_domain=hackatime.hackclub.com&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&v=2\&layout=compact&custom_title=Hackatime+Stats">
 </a>
 
 <div align="left">
