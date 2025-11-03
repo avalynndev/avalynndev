@@ -30,13 +30,13 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [avalynndev/v3-enjoytown](https://github.com/avalynndev/v3-enjoytown)<br>
-2. ⬆️ Pushed undefined commit(s) to [avalynndev/puzzled](https://github.com/avalynndev/puzzled)<br>
+1. ⬆️ Pushed undefined commit(s) to [avalynndev/avaweb](https://github.com/avalynndev/avaweb)<br>
+2. ⬆️ Pushed undefined commit(s) to [avalynndev/v3-enjoytown](https://github.com/avalynndev/v3-enjoytown)<br>
 3. ⬆️ Pushed undefined commit(s) to [avalynndev/puzzled](https://github.com/avalynndev/puzzled)<br>
-4. ⬆️ Pushed undefined commit(s) to [avalynndev/fks-website](https://github.com/avalynndev/fks-website)<br>
-5. ⬆️ Pushed undefined commit(s) to [avalynndev/shootergame](https://github.com/avalynndev/shootergame)<br>
+4. ⬆️ Pushed undefined commit(s) to [avalynndev/puzzled](https://github.com/avalynndev/puzzled)<br>
+5. ⬆️ Pushed undefined commit(s) to [avalynndev/fks-website](https://github.com/avalynndev/fks-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 3rd, 2025, 8:56:41 AM
+Last Updated: Monday, November 3rd, 2025, 9:21:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
