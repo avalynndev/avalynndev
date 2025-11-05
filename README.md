@@ -30,7 +30,7 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 ### 📄 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [avalynndev/electricity-grid](https://github.com/avalynndev/electricity-grid)<br>
+1. ⬆️ Pushed undefined commit(s) to [avalynndev/grid](https://github.com/avalynndev/grid)<br>
 2. ⬆️ Pushed undefined commit(s) to [avalynndev/siege-timer](https://github.com/avalynndev/siege-timer)<br>
 3. ⬆️ Pushed undefined commit(s) to [avalynndev/panda-trinket](https://github.com/avalynndev/panda-trinket)<br>
 4. ⬆️ Pushed undefined commit(s) to [avalynndev/panda-trinket](https://github.com/avalynndev/panda-trinket)<br>
@@ -38,5 +38,5 @@ You can talk to me by <a href="https://discord.com/users/735059235141845003">Dir
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 5th, 2025, 11:16:33 AM
+Last Updated: Wednesday, November 5th, 2025, 11:30:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
