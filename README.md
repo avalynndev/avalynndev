@@ -1,3 +1,5 @@
+### Open for small paid projects. DM for rates. avalynndev on discord
+
 <a href="https://discord.com/users/735059235141845003" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/735059235141845003?bg=1f1f1f&borderRadius=5px">
 </a>
