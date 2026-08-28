@@ -10,19 +10,19 @@
 
 <div align="left">
 Obviously, it is called <b>README</b>, so you are <b>reading</b> me now.<br> 
-I'm a 15-year-old who enjoys programming things as a hobby. <br>
+I'm a 17-year-old who enjoys programming things as a hobby. <br>
 I have plenty of experience in Node.js (JS/TS) and Python.<br>
 You can talk to me by <a href="https://discord.com/users/735059235141845003">Direct Messaging</a> me on discord.<br>
 </div>
 
 ### ⚡Top Projects
-1. 📹 [enjoytown](https://enjoytown.pro): a website where you can watch k-drama, anime, movies, tv shows and read manga for free.
+1. ~~📹 [enjoytown](https://enjoytown.pro)~~: a website where you can watch k-drama, anime, movies, tv shows and read manga for free. `[shutdown]`
 2. ~~🎞️ [animunet](https://animunet.vercel.app)~~: a website where you can watch anime, created with animetize-api `[shutdown]`
 3. ~~🎉 [animetize-api](https://animetize-api.vercel.app)~~: API that fetches data related to anime by scrapping gogoanime site `[shutdown]`
 2. 🤖 [Subrey](https://github.com/InfiniteDevs/Subrey): open source multipurpose discord bot 
 
 ### 📄 Source Codes -
-1. 📹 [enjoytown](https://github.com/avalynndev/enjoytown) 
+1. ~~📹 [enjoytown](https://github.com/avalynndev/enjoytown)~~ `[shutdown]`
 2. ~~🎞️ [Vegenta](https://github.com/InfiniteDevs/vegenta)~~ `[shutdown]`
 3. ~~🎞️ [animunet](https://github.com/InfiniteDevs/animunet)~~ `[shutdown]`
 4. ~~🎉 [animetize-api](https://github.com/avalynndev/animetize-api)~~ `[shutdown]`
